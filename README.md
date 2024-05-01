@@ -49,6 +49,3 @@ The performance of each model was evaluated using common metrics such as accurac
 - Darsh Shetty
 - Pavan Antala
 - Sheroz Shaikh
-
-## License
-This project is licensed under the [MIT License](LICENSE). Contributions, feedback, and collaborations are welcome.
